@@ -3,7 +3,7 @@ Currency Converter in C
 This is a basic currency converter program written in C. The program allows users to convert between multiple currencies using predefined exchange rates.
 
 Features:
-Converts between a variety of currencies (e.g., USD, EUR, INR, GBP).
+Converts between a variety of currencies (e.g., USD, EUR, INR, GBP, JPY).
 Simple menu-driven interface for selecting currencies and entering the amount.
 Uses fixed exchange rates for conversion.
 
