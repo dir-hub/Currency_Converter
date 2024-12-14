@@ -1,4 +1,5 @@
 Currency Converter in C
+
 This is a basic currency converter program written in C. The program allows users to convert between multiple currencies using predefined exchange rates.
 
 Features:
